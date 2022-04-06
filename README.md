@@ -1,2 +1,2 @@
 # CM1114
-My coutsework
+My coursework
